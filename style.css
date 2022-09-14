@@ -99,10 +99,16 @@ a:hover {
 .font-weight-light          { font-weight: 200;         }
 .font-weight-extra-bold     { font-weight: 800;         }
 
-.text-left      { text-align: left;   }
-.text-center    { text-align: center; }
-.text-right     { text-align: right;  }
+.left      { text-align: left;   }
+.center    { text-align: center; }
+.right     { text-align: right;  }
 
+.copyright {
+    font-size: 0.85rem;
+    font-style: italic;
+    opacity: 0.8;
+    padding-top: 2%;
+}
 
 
 
